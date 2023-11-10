@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>L Game</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body>
+    <div class="main">
+        <div class="gameDetails"> 
+            <h1>L-Game</h1>
+            <p>This is a simple strategy game. Each player takes turns moving their L piece and then optionally moving one (not two) of the neutral pieces.</p>
+            <p>For more information, see the 
+                <a href="https://en.wikipedia.org/wiki/L_game" target="_blank">
+                    Wikipedia article
+                </a>
+            </p>
+        </div>
+        <div class="playBoard">
+        </div>
+        <div class="infoControl">
+            <div class="possibleMoves">
+                Moves possible for current player : <span class="movesCount">5</span>
+            </div>
+            <div class="info">
+                It's <span class="redColor">Red's turn!</span> Draw your L piece.
+             </div>
+            <div class="controls">
+                <i class="fa fa-undo fa-3x undoBtn"></i>
+                <i class="fa fa-refresh fa-3x restartBtn"></i>
+                <div class="skipBtn">Skip</div>
+            </div>
+            
+        </div>
+
+        <div class="result"></div>
+        <div class="notes">
+            **Info : <i class="fa fa-undo"></i>  is used to deselect the black piece only, 
+            <i class="fa fa-refresh"></i> is for restart the game. | email: <a href="">anujtiwarmnnitmnnit@gmail.com</a>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
