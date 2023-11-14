@@ -45,7 +45,7 @@ This version of the L-Game adds an interactive element to drawing L pieces and m
 
 ## Additional Gameplay Rules
 
-- **Turn Structure:** On each turn, a player must first move their L piece. Optionally, the player may then move one of the neutral pieces.
+- **Turn Structure:** On each turn, a player must first move their L piece. Optionally, the player may then move one of the black pieces.
   
 - **Objective:** The game is won by leaving the opponent unable to move their L piece to a new position.
 
@@ -54,8 +54,8 @@ This version of the L-Game adds an interactive element to drawing L pieces and m
   - The L piece can be rotated or flipped during the move.
   - The piece must end in a different position from where it started, covering at least one square it did not previously cover.
   
-- **Neutral Piece Movement:**
-  - To move a neutral piece, a player picks it up and places it in an empty square anywhere on the board.
+- **Black Piece Movement:**
+  - To move a black piece, a player picks it up and places it in an empty square anywhere on the board.
 
 - **Overlap and Cover Rules:**
   - Pieces may not overlap or cover other pieces.
