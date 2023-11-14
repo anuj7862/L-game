@@ -2,6 +2,18 @@
 
 Welcome to the L-Game repository! This is a web-based implementation of the L-Game, a strategic board game for two players.
 
+## Overview
+
+This version of the L-Game adds an interactive element to drawing L pieces and moving black pieces. The undo, skip, and restart buttons enhance the gameplay experience.
+
+
+## Demo
+
+<img width="400" alt="Screenshot Game Start" src="https://github.com/anuj7862/L-game-using-Javascript/assets/66530079/8e55a5bf-29d7-43a6-b310-408b120c9f0e">
+<img width="400" alt="Screenshot Game Middle" src="https://github.com/anuj7862/L-game-using-Javascript/assets/66530079/1322e02e-58c0-425a-9ea1-d5032de94a2c">
+<img width="800" alt="Screenshot Game End" src="https://github.com/anuj7862/L-game-using-Javascript/assets/66530079/8b47e9bd-87dd-4ea8-a0be-706ed9a2b3b2">
+
+
 ## Gameplay Features
 
 - **Draw L Piece:** Click and hold the mouse to draw your L piece on the board. Rotate or flip it as needed. Release the mouse to finalize the position.
@@ -14,17 +26,6 @@ Welcome to the L-Game repository! This is a web-based implementation of the L-Ga
   - **Restart:** Restart the game.
 
 - **Winning Condition:** After each player's turn, the game checks the total possible moves for the next player. If the count is zero, the current player wins.
-
-## Overview
-
-This version of the L-Game adds an interactive element to drawing L pieces and moving black pieces. The undo, skip, and restart buttons enhance the gameplay experience.
-
-
-## Demo
-
-<img width="400" alt="Screenshot Game Start" src="https://github.com/anuj7862/L-game-using-Javascript/assets/66530079/8e55a5bf-29d7-43a6-b310-408b120c9f0e">
-<img width="400" alt="Screenshot Game Middle" src="https://github.com/anuj7862/L-game-using-Javascript/assets/66530079/1322e02e-58c0-425a-9ea1-d5032de94a2c">
-<img width="800" alt="Screenshot Game End" src="https://github.com/anuj7862/L-game-using-Javascript/assets/66530079/8b47e9bd-87dd-4ea8-a0be-706ed9a2b3b2">
 
 
 ## Getting Started
